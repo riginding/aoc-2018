@@ -17,5 +17,3 @@ def find_double_frequencies(values)
 end
 
 puts find_double_frequencies(values)
-
-
